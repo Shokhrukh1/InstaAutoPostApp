@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">InstaAutoPostApp</string>
+    <string name="login">Логин</string>
+    <string name="password">Пароль</string>
+    <string name="login_button">Войти</string>
+    <string name="select_file">Выбрать файл</string>
+    <string name="select_time">Выбрать время</string>
+    <string name="allow_read_access_to_files">Разрешите доступ для чтение файлов</string>
+    <string name="done">Готово</string>
+    <string name="caption">Заголовок</string>
+    <string name="set_time">Установите время</string>
+    <string name="logout">Выйти</string>
+
+    <string name="picture_camera_roll">CameraRoll</string>
+    <string name="picture_cancel">Отменить</string>
+    <string name="picture_take_picture">Сделать фото</string>
+    <string name="picture_rule">нету фотографий или видео</string>
+    <string name="picture_min_video_num">Video Selection Cannot%1$sNumber</string>
+    <string name="picture_message_max_num">You can choose the most%1$s Number Pictures</string>
+    <string name="picture_preview">Предпросмотр</string>
+    <string name="picture_please">Пожалуйста поже…</string>
+    <string name="picture_done_front_num">%1$d/%2$d OК</string>
+    <string name="picture_completed">Готово</string>
+    <string name="picture_done">OК</string>
+    <string name="picture_please_select">Пожалуйста выберите</string>
+    <string name="picture_empty_title">Нету видео или фотографий\n</string>
+    <string name="picture_empty_audio_title">Нету аудио файла\n</string>
+    <string name="picture_audio_empty">You can use system recordings to record audio</string>
+    <string name="picture_empty">Вы можете использовать системную камеру, чтобы фотографировать и снимать видео</string>
+    <string name="picture_min_img_num">Picture Selection Cannot%1$sNumber</string>
+    <string name="gif_tag">gif</string>
+    <string name="picture_audio">Не получено разрешение на аудио запись</string>
+    <string name="picture_jurisdiction">Не получено разрешение на чтение памяти</string>
+    <string name="picture_camera">Не получено разрешение на использование камеры</string>
+    <string name="picture_video_toast">Видео не имеет предпросмотра</string>
+    <string name="picture_record_video">Записать видео</string>
+    <string name="picture_photograph">Сфотографировать</string>
+    <string name="picture_long_chart">Long</string>
+    <string name="picture_warning">Media files！</string>
+    <string name="picture_prompt">Prompt</string>
+    <string name="picture_prompt_content">Вы хотите сохранить фотографию на телефон?</string>
+    <string name="picture_save_error">Ошибка сохранение фотографии</string>
+    <string name="picture_save_success">Save picture successfully until</string>
+    <string name="picture_all_audio">Все аудио</string>
+    <string name="picture_tape">Tape</string>
+    <string name="picture_play_audio">Play</string>
+    <string name="picture_stop_audio">Stop</string>
+    <string name="picture_quit_audio">Quit</string>
+    <string name="picture_pause_audio">Pause</string>
+    <string name="picture_error">Фотография повреждена</string>
+    <string name="picture_video_error">Видео повреждено</string>
+    <string name="picture_audio_error">Аудио файл поврежден</string>
+    <string name="picture_confirm">Отменить</string>
+    <string name="picture_message_video_max_num">You can choose%1$s videos at most</string>
+    <!---->
+</resources>
